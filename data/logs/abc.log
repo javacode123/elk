@@ -1,0 +1,11 @@
+{"level":"debug","ts":1661575214.0000746,"caller":"main.main","msg":"This is a debug message","key":"value","count":10}
+{"level":"info","ts":1661575214.0001595,"caller":"main.main","msg":"This is an info message","key":"value","pi":3.14159}
+{"level":"warn","ts":1661575214.000173,"caller":"main.main","msg":"This is a warning message","key":"value","flag":true}
+{"level":"error","ts":1661575214.0001845,"caller":"main.main","msg":"This is an error message","key":"value","error":"something went wrong"}
+{"level":"error","ts":1661575214.0001845,"caller":"main.main","msg":"This is an error message","key":"value","error":"something went wrong"}
+
+{"level":"error","ts":1661575214.0001845,"caller":"main.main","msg":"This is an error message","key":"value","error":"something went wrong"}
+{"level":"error","ts":1661575214.0001845,"caller":"main.main","msg":"This is an error message","key":"value","error":"something went wrong"}
+{"level":"error","ts":1661575214.0001845,"caller":"main.main","msg":"This is an error message","key":"value","error":"something went wrong"}
+sjljsljsdljl
+dsdjl
